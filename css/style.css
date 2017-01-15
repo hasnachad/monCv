@@ -56,7 +56,7 @@ a{
     text-align: center;
     text-align: center;
 }*/
-img{
+.id{
 	border: 3px solid black;
 	border-radius: 9px;/*l'image est arrondie*/
 	width: 100px;
@@ -97,4 +97,19 @@ html body footer article{
 	100%{
 		margin-left: 0%;
 	}
+}
+/*Partie loisirs html5*/
+.fondecran{
+	background-color: grey;
+}
+
+.loisirs{
+	text-align: center;
+
+}
+.gateaux{
+	width: 20%;
+}
+.zumba{
+	width: 20%;
 }
